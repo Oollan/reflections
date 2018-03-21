@@ -12,3 +12,6 @@ A: I can use the "git diff --staged" command to check how much changes I made in
 Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A: Situations of creating a new function, translation, mode, etc...
  and branches will help to make every situation to be treated differently so it wont be mixed on the master branch.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: They make the branch structure easier for view.
