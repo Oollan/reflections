@@ -8,3 +8,7 @@ A: Its different because its a intermediate area, and the value thats offers is 
 
 Q: How can you use the staging area to make sure you have one commit per logical change?
 A: I can use the "git diff --staged" command to check how much changes I made in the staging area.
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: Situations of creating a new function, translation, mode, etc...
+ and branches will help to make every situation to be treated differently so it wont be mixed on the master branch.
