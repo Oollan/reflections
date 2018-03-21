@@ -5,3 +5,6 @@ A: It creates the repository itself, and we need to do that in order to use the 
 
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: Its different because its a intermediate area, and the value thats offers is that we have more control over files.
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: I can use the "git diff --staged" command to check how much changes I made in the staging area.
