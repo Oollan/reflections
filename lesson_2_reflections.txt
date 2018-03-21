@@ -18,3 +18,6 @@ A: They make the branch structure easier for view.
 
 Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A: The result is a combined branch, and you represent it in the diagram because its easier to see that way.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: The pros are that its quick and easy to do, the cons are that its not always working well.
