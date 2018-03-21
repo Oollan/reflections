@@ -1,0 +1,7 @@
+Lesson 2 Reflections:
+
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: It creates the repository itself, and we need to do that in order to use the Git tools. 
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: Its different because its a intermediate area, and the value thats offers is that we have more control over files.
