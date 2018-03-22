@@ -17,3 +17,7 @@ A: The benefit is that you synchronized and won't have conflicts with the remote
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: I could collaborate by sharing files on Google Drive, but it would be hard.
  I guess there are no easy way to do it with good management.
+ 
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: Making changes in a separate branch is more of a clean way, its good to be done always, while making changes in master branch is
+ easier but dirty, so its preferred to use separate branches.
